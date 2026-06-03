@@ -14,3 +14,53 @@ git init
 git config --global user.name "Jasleen Bedi"
 git config --global user.email "jasleenbedikaur@gmail.com"
 git status
+git add .
+git commit -m "ist shot"
+git remote add origin https://github.com/YOUR_USERNAME/tripplanner.git
+(env) PS C:\Users\jbedi\tripplanner> git branch -M main
+>> git push -u origin main
+git branch -M main
+git push -u origin main
+(env) PS C:\Users\jbedi\tripplanner> git remote remove origin
+
+ create mode 100644 tools/calculator_tool.py
+ create mode 100644 tools/currency_conversion_tool.py
+ create mode 100644 tools/placesearch_tool.py
+ create mode 100644 tools/weather_tool.py
+ create mode 100644 utils/__init__.py
+ create mode 100644 utils/config_loader.py
+ create mode 100644 utils/placeinfosearch.py
+ create mode 100644 utils/savetodoc.py
+ create mode 100644 uv.lock
+(env) PS C:\Users\jbedi\tripplanner> ^C
+(env) PS C:\Users\jbedi\tripplanner> git remote add origin https://github.com/YOUR_USERNAME/tripplanner.git
+(env) PS C:\Users\jbedi\tripplanner> git branch -M main
+>> git push -u origin main
+remote: Repository not found.
+fatal: repository 'https://github.com/YOUR_USERNAME/tripplanner.git/' not found
+(env) PS C:\Users\jbedi\tripplanner> git remote add origin https://github.com/jasleen77/tripplanner.git    
+error: remote origin already exists.
+(env) PS C:\Users\jbedi\tripplanner> git remote remove origin
+(env) PS C:\Users\jbedi\tripplanner> git remote add origin https://github.com/jasleen77/tripplanner.git
+(env) PS C:\Users\jbedi\tripplanner> git remote -v
+origin  https://github.com/jasleen77/tripplanner.git (fetch)
+origin  https://github.com/jasleen77/tripplanner.git (p
+
+git push -u origin main
+git remote -v
+otal 16422 (delta 3754), reused 16422 (delta 3754), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3754/3754), done.
+remote: warning: See https://gh.io/lfs for more information.
+remote: warning: File env/Lib/site-packages/chromadb_rust_bindings/chromadb_rust_bindings.pyd is 60.46 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/Jasleen77/TripplannerAIAgents.git
+To https://github.com/jasleen77/tripplannerAiAgents.git
+ * [new branch]        main -> main
+branch 'main' set up to track 'origin/main'.
+(env) PS C:\Users\jbedi\tripplanner> git push -u origin main
+branch 'main' set up to track 'origin/main'.
+Everything up-to-date
+(env) PS C:\Users\jbedi\tripplanner> git remote -v
+origin  https://github.com/jasleen77/tripplannerAiAgents.git (fetch)
+origin  https://github.com/jasleen77/tripplannerAiAgents.git (push)git status
