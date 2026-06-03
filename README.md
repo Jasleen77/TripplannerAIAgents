@@ -60,7 +60,7 @@ To https://github.com/jasleen77/tripplannerAiAgents.git
 branch 'main' set up to track 'origin/main'.
 (env) PS C:\Users\jbedi\tripplanner> git push -u origin main
 branch 'main' set up to track 'origin/main'.
-Everything up-to-date
+Everything up-to-date..
 (env) PS C:\Users\jbedi\tripplanner> git remote -v
 origin  https://github.com/jasleen77/tripplannerAiAgents.git (fetch)
 origin  https://github.com/jasleen77/tripplannerAiAgents.git (push)git status
