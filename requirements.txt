@@ -1,0 +1,18 @@
+Package	
+langchain	#Core framework for building LLM and agent applications
+langchain-community #	Community integrations and tools
+langchain-experimental #	Experimental LangChain features and agents
+fastapi	#Backend API framework
+python-dotenv #	Load API keys from .env files
+streamlit	#Frontend web application
+uvicorn	#FastAPI server
+pydantic	#Data validation and structured outputs
+httpx	#Async HTTP requests
+requests	#Standard HTTP requests
+langchain_google_community	#Google Search and Places integrations
+langchain_tavily	#Tavily search tool integration
+langchain_groq	#Groq LLM integration
+langchain_openai	#OpenAI GPT integration
+pyyaml	#YAML configuration files
+langgraph
+-e .
